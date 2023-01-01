@@ -3,6 +3,7 @@
 Model 1:  CAPM (Capital Asset Pricing Model)
 
          R_IBM -Rf = alpha + beta(Rmkt- Rf)
+         
         st.latex(r'''CAPM: R_{IBM} -R_f = \alpha + \beta(R_{mkt}- R_f)''')
 
 Model 2: FF3, Fama-French 3-factor model 
